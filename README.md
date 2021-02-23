@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
+    <img alt="Banner about LinMAD" align="center" src="https://github.com/LinMAD/LinMAD/blob/master/assets/linmad.png">
+</div>
+</br>
 
-<!--
-**LinMAD/LinMAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About 💬 :
 
-Here are some ideas to get you started:
+#### - I'm Artjoms aka LinMAD => Back-End / Embedded Software Developer with more then 5 years experience. I have been working in various fields, starting from finances\banking, E-Commerce, entertainment and ending with human resources. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+    <a href="https://www.instagram.com/p/CE7qJX7pjBn/">
+        <img alt="Banner about LinMAD" align="right" src="https://github.com/LinMAD/LinMAD/blob/master/assets/nibble.PNG" width="400" height="400">
+    </a>
+</div>
+
+### - Learning :
+- ✨ [Computer graphics and Game engine making](https://github.com/LinMAD/Nibble)
+- ✨ Social Psychology
+- ✨ ROS (Robot Operating System)
+
+### - Hobbies : 
+- ✨ Kendo
+- ✨ Cooking and Backing
+- ✨ Reading scientific researches
+- ✨ Gaming Addict
+- ✨ Learning guitar (Hard to pick up)
+- ✨ Ski, Hiking
+- ✨ [Programming\Art Instagram](https://www.instagram.com/nibble_hex/?hl=en)
+
+</br>
