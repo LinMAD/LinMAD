@@ -1,30 +1,25 @@
-<div align="center">
-    <img alt="Banner about LinMAD" align="center" src="https://github.com/LinMAD/LinMAD/blob/master/assets/linmad.png">
-</div>
-</br>
-
-# About 💬 :
-
-#### - I'm Artjoms aka LinMAD => Back-End / Embedded Software Developer with more then 5 years experience. I have been working in various fields, starting from finances\banking, E-Commerce, entertainment and ending with human resources. 
-
-<div align="right">
-    <a href="https://www.instagram.com/p/CE7qJX7pjBn/">
-        <img alt="Banner about LinMAD" align="right" src="https://github.com/LinMAD/LinMAD/blob/master/assets/nibble.PNG" width="400" height="400">
-    </a>
+<div>
+    <div align="center">
+        <img alt="Banner about LinMAD" align="center" src="https://github.com/LinMAD/LinMAD/blob/master/assets/linmad.png">
+    </div>
 </div>
 
-### - Learning :
-- ✨ [Computer graphics and Game engine making](https://github.com/LinMAD/Nibble)
-- ✨ Social Psychology
-- ✨ ROS (Robot Operating System)
+_____
+## - Short about 💬:
 
-### - Hobbies : 
-- ✨ Kendo
-- ✨ Cooking and Backing
-- ✨ Reading scientific researches
-- ✨ Gaming Addict
-- ✨ Learning guitar (Hard to pick up)
-- ✨ Ski, Hiking
-- ✨ [Programming\Art Instagram](https://www.instagram.com/nibble_hex/?hl=en)
+<img src="https://github-readme-stats.vercel.app/api?username=LinMAD&show_icons=true&theme=city_lights" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-</br>
+- 🤖 Personal: Responsible, direct, honest, goal-driven, and ambitious.
+- 🌱 Professionally: In the IT industry for ~10 years.
+- 🎓 My roles: Software Development, Architecture, and Software Product Management.
+- ⚡️Field of expiration: Finances\banking, E-Commerce, entertainment, and ending with human resources.
+- 📝 My [C.V.](https://github.com/LinMAD/LinMAD/blob/master/assets/cv/Resume.pdf)
+
+### - Hobbies ⚙: 
+- ⚔️ [Kendo](https://en.wikipedia.org/wiki/Kendo)
+- 🕹️ [Indie game development](https://en.wikipedia.org/wiki/Indie_game)
+- 🔬 Reading scientific researches from:
+  - https://www.researchgate.net
+  - https://pubmed.ncbi.nlm.nih.gov/
+- 🎲 Gaming Addict (TBS, RTS, RPGs, Economic, and Tactical)
+- 🤙🏂 Ski, Hiking 
