@@ -16,10 +16,13 @@ _____
 - 📝 My [C.V.](https://github.com/LinMAD/LinMAD/blob/master/assets/cv/Resume.pdf)
 
 ### - Hobbies ⚙: 
-- ⚔️ [Kendo](https://en.wikipedia.org/wiki/Kendo)
-- 🕹️ [Indie game development](https://en.wikipedia.org/wiki/Indie_game)
+- 🕹️ [Game development enthusiast](https://github.com/LinMAD/SimpleGames)
+  - Some mechanics, algorithms, and primitive games: https://github.com/LinMAD/SimpleGames
+  - Attempt to write 3D engine: https://github.com/LinMAD/Nibble
+  - Simple 2D Engine for creating own workshops: https://github.com/KludgePub/Snap
 - 🔬 Reading scientific researches from:
   - https://www.researchgate.net
   - https://pubmed.ncbi.nlm.nih.gov/
 - 🎲 Gaming Addict (TBS, RTS, RPGs, Economic, and Tactical)
-- 🤙🏂 Ski, Hiking 
+- 🤙🏂 Skiing, Hiking
+- 🎨Simple pixel arts
